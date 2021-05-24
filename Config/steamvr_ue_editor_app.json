@@ -5,7 +5,7 @@
 			"app_key": "application.generated.ue.af-15973114.ue4editor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
-			"action_manifest_path": "M:/Unreal Projects/CattleBreeds/Config/SteamVRBindings/steamvr_manifest.json",
+			"action_manifest_path": "M:/Unreal Projects/Cattle101/Config/SteamVRBindings/steamvr_manifest.json",
 			"strings":
 			{
 				"en_us":
